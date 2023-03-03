@@ -1,0 +1,9 @@
+kucoinModified
+kucoinModified/base_request
+kucoinModified/isolatedMargin
+kucoinModified/margin
+kucoinModified/market
+kucoinModified/trade
+kucoinModified/user
+kucoinModified/websocket
+kucoinModified/ws_token
